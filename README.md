@@ -1,6 +1,6 @@
 # Push Authentication Library
 
-Library help you here [pushauth.zenlix.com](http://dashboard.pushauth.zenlix.com/dashboard).
+Library help you here [pushauth.zenlix.com](http://pushauth.zenlix.com/).
 
 ## Requirements
 
@@ -12,7 +12,7 @@ Java 1.6 or later.
 
 You'll need to manually install the following JAR: 
 
-* Downolad JAR
+* Downolad [JAR](https://github.com/Vla2yslav/PushAuth/releases/tag/1.0)
 
 * Open IDE
 
