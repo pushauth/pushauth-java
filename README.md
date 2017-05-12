@@ -58,9 +58,6 @@ public class PushAuthExample {
 }
 
 ```
-
-See the project's [functional tests]() for more examples.
-
 <!--
 # vim: set tw=79:
 -->
